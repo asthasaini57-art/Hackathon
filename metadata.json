@@ -1,0 +1,6 @@
+{
+  "name": "CivicWatch: Anonymous Public Damage & Leadership Accountability",
+  "description": "An anonymous citizen reporting portal for damaged public property with automated municipal dispatch and leadership governance accountability metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
